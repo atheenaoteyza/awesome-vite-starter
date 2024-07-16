@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/front-cam/",
+  base: "/awesome-vite-starter/",
 });
